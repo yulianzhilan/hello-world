@@ -3,4 +3,9 @@ class Hello{
 	
 	}
 
+
+public void getAge(){
+
+}
+
 }
